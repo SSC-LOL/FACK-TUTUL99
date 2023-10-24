@@ -228,7 +228,7 @@ logo =(f"""
 \033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m FACEBOK\033[1;91m      : \033[1;92m RX\033[1;91m-\033[1;92mLIMON\033[1;91m-\033[1;92mKING\033[1;91m-\033[1;92mBRO            \033[1;91m|
 \033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m GITHUB\033[1;91m       :  \033[1;92mRX\033[1;91m-\033[1;92mLIMON                     \033[1;91m|
 \033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m TOOL STATUS\033[1;91m  : \033[1;92m FILE CLONE                   \033[1;91m|
-\033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m WHATSAPP\033[1;91m\033[1;91m     :  \033[1;92m01935091078\033[1;91m\033[1;92m                  \033[1;91m|
+\033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m WHATSAPP\033[1;91m\033[1;91m     :  \033[1;92m01309472330\033[1;91m\033[1;92m                  \033[1;91m|
 \033[1;91m[\033[1;92m+\033[1;91m]\033[1;92m TOOL VIRSION\033[1;91m :  \033[1;35m[\033[1;32m\033[1;92m8.1\033[1;35m]                        \033[1;91m|
 \033[38;5;196m──────────────────────────────────────────────────""")
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
@@ -268,7 +268,7 @@ def meyexudi():
       print(f'\033[92;1m┏━──────────────────────────────────────────────────\033[1;37m')
       input('\033[92;1m┗━\033[97;1m[\033[92;1m+\033[97;1m] \033[97;1mIF U WANT TO BUY THEN PRESS ENTER ')
       os.system("python ASHIK-6-4V.py")
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801935091078?text='+tks),approval()      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801309472330?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
@@ -279,7 +279,7 @@ def naima():
 print(logo)
 #os.system('espeak -a 300 " Your,   Real,  Name,"')
 uname =input('\033[1;91m[\033[1;92m+\033[1;91m] \x1b[38;5;50mENTER YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  ASHIK,  V I P,  Tools"')
+os.system('espeak -a 300 " Welcome,   to,  SSC-LIMON,  V I P,  Tools"')
 def back():
 	login()
 	
